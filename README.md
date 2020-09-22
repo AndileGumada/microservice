@@ -10,7 +10,7 @@
     
 # Clone the application
     '''
-        git clone https:github.com
+        git clone https://github.com/AndileGumada/microservice
         cd creditCards
     '''
 # Create a jar executable file for the application
